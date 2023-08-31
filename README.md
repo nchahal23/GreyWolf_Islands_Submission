@@ -1,18 +1,15 @@
-## Getting Started
+## Introduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is a solution to graph problems mentioned in file `Coding Question.pdf`
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains files, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `Islands.java`: solution to problem 1
+- `DistinctIslands.java`: solution to problem 2
+- `ClosedIslands.java`: solution to problem 3
+- `Coding Question.pdf`: PDF containing the problem questions 1, 2, and 3
+- `input.txt`: contains test cases
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Meanwhile, the compiled output files (.class) will be generated during runtime.
